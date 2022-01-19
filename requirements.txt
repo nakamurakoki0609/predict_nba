@@ -1,0 +1,7 @@
+beautifulsoup4==4.9.1
+pandas
+tweepy
+python-dotenv==0.19.1
+urllib3==1.25.9
+lxml
+scikit-learn
